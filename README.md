@@ -1,17 +1,13 @@
 # Hi there, I'm Lucas Mota 👋
 
-### Full Stack Developer passionate about JavaScript!
+I'm an experienced Fullstack Developer with over 4 years of experience.
 
-I'm an experienced JavaScript developer, focusing on Node, React and PostgreSQL. I love creating dynamic and scalable web applications that provide a great user experience.
-___
+Throughout my career as a Full Stack Developer, I have helped my clients get their projects off the ground, promoting integration and scalability in modern applications while ensuring efficiency and functionality.
 
-### My skills:
+I have created institutional websites, landing pages for courses and products, and complete systems (both back-end and front-end) using various technologies, including: Node.js, JavaScript (ES6+), TypeScript, React, Express, Fastify, Next.js, PostgreSQL, MongoDB, Git, Tailwind CSS, Docker, and more.
 
-- JavaScript: Expert in modern JavaScript, including ES6+, TypeScript and frameworks such as React.
-- Node.js: Development of robust and scalable REST APIs with Node.js.
-- React: Creating interactive and reusable user interfaces with React.
-- SQL: Administration and optimization of PostgreSQL databases to ensure high performance.
-- Other Technologies: Experience with HTML, CSS, Git, Docker, Next.js and MongoDB.
+I love creating dynamic and scalable web applications that provide a great user experience.
+
 <!--
 **l-mota/l-mota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
