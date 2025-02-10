@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Mota 👋
 
-I'm an experienced Fullstack Developer with over 4 years of experience.
+I'm an experienced Full Stack Developer with over 4 years of experience.
 
 Throughout my career as a Full Stack Developer, I have helped my clients get their projects off the ground, promoting integration and scalability in modern applications while ensuring efficiency and functionality.
 
@@ -9,7 +9,7 @@ I have created institutional websites, landing pages for courses and products, a
 I love creating dynamic and scalable web applications that provide a great user experience.
 
 <!--
-**l-mota/l-mota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lmdvlpr/lmdvlpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
