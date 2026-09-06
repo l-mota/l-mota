@@ -2,7 +2,7 @@
 
 I spent two years making judgment calls on flagged content at Roblox — threats, fraud, self-harm — before building [Maldros](https://github.com/l-mota/maldros-analytics-system), a governed multi-agent AI platform engineered around holding semantic layers consistent, keeping pipelines healthy, validating experiments rigorously, surfacing improvement proposals for human sign-off, and turning all of it into stakeholder-ready reporting at the pace a fast-moving AI company generates new questions. Validated in simulation, it does that work without loosening governance — every finding still sourced, every consequential action still requiring a human sign-off. Its mechanisms are also engineered to detect the high-volume inference abuse behind API abuse and compute theft.
 
-Where I can contribute:
+Where I'm headed next:
 - Advancing regulatory compliance for AI systems
 - Fostering analyst judgment skills and cutting 60% of analyst time spent solely on data preparation 
 - Building toward rigorous physical AI safety
