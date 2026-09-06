@@ -4,10 +4,10 @@ I spent two years making judgment calls on flagged content at Roblox — threats
 
 Where I'm headed next:
 - Advancing regulatory compliance for AI systems
-- - Freeing analyst judgment from repetitive data preparation
-  - - Building toward rigorous physical AI safety
-   
-    - **[Read more about me →](https://l-mota.github.io/maldros-analytics-system/)**
-    - **[View the Maldros case study →](https://l-mota.github.io/maldros-analytics-system/case-study/)**
-   
-    - Spanish (native) · English (fluent) · German (developing) · [luissmota29@gmail.com](mailto:luissmota29@gmail.com)
+- Freeing analyst judgment from repetitive data preparation
+- Building toward rigorous physical AI safety
+
+**[Read more about me →](https://l-mota.github.io/maldros-analytics-system/)**
+**[View the Maldros case study →](https://l-mota.github.io/maldros-analytics-system/case-study/)**
+
+Spanish (native) · English (fluent) · German (developing) · [luissmota29@gmail.com](mailto:luissmota29@gmail.com)
